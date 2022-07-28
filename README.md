@@ -6,9 +6,7 @@ I'm a third year undergraduate studying Cognitive Science & Computer Science @ T
 
 🌱 🐜 🔍
 
-Follow my work: <a href="https://www.instagram.com/austinkral/" target="_blank">Instagram</a>
-
-=•)
+Follow my <a href="https://www.instagram.com/austinkral/" target="_blank">work</a>!
 
 <!--
 **austinkral/austinkral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
