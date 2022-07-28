@@ -5,8 +5,8 @@ I'm a third year undergraduate studying Cognitive Science & Computer Science @ T
 🧠 💾 👁️
 
 Currently,
-> I'm conducting research in the Department of Psychology as a member of the <a href="https://research.franklin.uga.edu/visual-perception-laboratory/" target="_blank">Visual Perception Laboratory</a> and
-> Creating a <a href="https://www.austinkral.com/persistence-of-vision#1" target="_blank">series of photographs</a> inspired by ecological psychology and biosemiotics. 
+- I'm conducting research in the Department of Psychology as a member of the <a href="https://research.franklin.uga.edu/visual-perception-laboratory/" target="_blank">Visual Perception Laboratory</a> and
+- Creating a <a href="https://www.austinkral.com/persistence-of-vision#1" target="_blank">series of photographs</a> inspired by ecological psychology and biosemiotics. 
 
 🌱 🐜 🔍
 
