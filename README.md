@@ -6,7 +6,7 @@ I'm a third year undergraduate studying Cognitive Science & Computer Science @ T
 
 🌱 🐜 🔍
 
-Keep up to date with my artwork via <a href="https://www.instagram.com/austinkral/" target="_blank">Instagram</a>.
+Follow my work: <a href="https://www.instagram.com/austinkral/" target="_blank">Instagram</a>
 
 =•)
 
