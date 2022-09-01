@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I'm a third year undergraduate studying Cognitive Science & Computer Science @ The University of Georgia.
+I'm a third year undergraduate studying Cognitive Science, Computer Science, and Mathematics @ The University of Georgia.
 
 Currently, I'm
 - 👁️ Conducting research in the Department of Psychology as a member of the <a href="https://research.franklin.uga.edu/visual-perception-laboratory/" target="_blank">Visual Perception Laboratory</a> 🧠 💾 🌀
