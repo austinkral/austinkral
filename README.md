@@ -3,7 +3,7 @@
 I'm a third year undergraduate studying Cognitive Science, Computer Science, and Mathematics @ The University of Georgia.
 
 Currently, I'm
-- 👁️ Conducting research on the spatiotemporal dynamics of the watercolor illusion in the Department of Psychology as a member of the <a href="https://research.franklin.uga.edu/visual-perception-laboratory/" target="_blank">Visual Perception Laboratory</a> 🧠 💾 🌀
+- 👁️ Conducting research on the spatiotemporal dynamics of the watercolor illusion as a member of the <a href="https://research.franklin.uga.edu/visual-perception-laboratory/" target="_blank">Visual Perception Laboratory</a> 🧠 💾 🌀
 - 📸 Creating a <a href="https://www.austinkral.com/persistence-of-vision#1" target="_blank">series of photographs</a> inspired by ecological psychology and biosemiotics 🌱 🐜 🔍
 
 Follow my <a href="https://www.instagram.com/austinkral/" target="_blank">work</a>!
