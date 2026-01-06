@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-🌱 I'm a first year master's student and NSF <a href="https://geosciences.gsu.edu/csaw/">Community-Soil-Air-Water</a> fellow in the Department of Geosciences at Georgia State University.
+🌱 I'm a first year master's student and NSF <a href="https://geosciences.gsu.edu/csaw/">Community-Soil-Air-Water</a> fellow concentrating in geography at Georgia State University.
 
 🧠 I hold bachelor's degrees in cognitive science and computer science from the University of Georgia, where I also completed a minor in mathematics. 
 
