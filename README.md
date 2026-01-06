@@ -1,12 +1,8 @@
 ### Welcome 👋
 
-I'm a third year undergraduate studying Cognitive Science, Computer Science, and Mathematics @ The University of Georgia.
+I'm a first year master's student and NSF Community-Soil-Air-Water fellow in Georgia State University's Department of Geosciences.
 
-Currently, I'm
-- 👁️ Conducting research on the spatiotemporal dynamics of the watercolor illusion in the <a href="https://research.franklin.uga.edu/visual-perception-laboratory/" target="_blank">Visual Perception Laboratory</a> 🧠 💾 🌀
-- 📸 Creating a <a href="https://www.austinkral.com/persistence-of-vision#1" target="_blank">series of photographs</a> inspired by ecological psychology and biosemiotics 🌱 🐜 🔍
-
-Keep up with my work <a href="https://www.instagram.com/austinkral/" target="_blank">here</a>!
+I hold bachelor's degrees in cognitive science and computer science from the University of Georgia, where I also completed a minor in mathematics. 
 
 <!--
 **austinkral/austinkral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
